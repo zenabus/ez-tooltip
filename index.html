@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>EZ-Tooltip v1.0.0</title>
+  <title>EZ-Tooltip v1.0.1</title>
   <link rel="stylesheet" href="ez-tooltip.css">
   <style>
     /* demo css only */
@@ -23,14 +23,19 @@
       bottom: 10px;
       right: 10px;
     }
+    body {
+      height: 100vh;
+      width: 100%;
+      overflow: hidden;
+    }
     /* demo css only */
   </style>
 </head>
-<body>
-    <button data-tooltip="Hello World!" class="topLeft">Tooltip here!</button>
-    <button data-tooltip="Hello World!" class="topRight">Tooltip here!</button>
-    <button data-tooltip="Hello World!" class="bottomLeft">Tooltip here!</button>
-    <button data-tooltip="Hello World!" class="bottomRight">Tooltip here!</button>
+<body data-tooltip="This is body">
+    <button data-tooltip="I'm at top left!" class="topLeft">Tooltip here!</button>
+    <button data-tooltip="I'm at top left!" class="topRight">Tooltip here!</button>
+    <button data-tooltip="I'm at top left!" class="bottomLeft">Tooltip here!</button>
+    <button data-tooltip="I'm at top left!" class="bottomRight">Tooltip here!</button>
 </body>
 <script src="ez-tooltip.js"></script>
 </html>

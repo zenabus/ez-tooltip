@@ -1,0 +1,9 @@
+EZ-Tooltip.js
+
+https://github.com/zenabus
+
+Copyright (c) 2020 Francisco Ibañez III
+Free to use under the MIT license.
+
+v1.0.1
+- added event.stopImmediatePropagation() to handle events on nested elements.
