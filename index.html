@@ -5,14 +5,32 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>EZ-Tooltip v1.0.0</title>
   <link rel="stylesheet" href="ez-tooltip.css">
+  <style>
+    /* demo css only */
+    button{
+      position: absolute;
+    }
+    .topLeft {
+      left: 10px;
+    }
+    .topRight {
+      right: 10px;
+    }
+    .bottomLeft{
+      bottom: 10px;
+    }
+    .bottomRight {
+      bottom: 10px;
+      right: 10px;
+    }
+    /* demo css only */
+  </style>
 </head>
 <body>
-  <figure
-    data-tooltip="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Optio corrupti consequuntur distinctio ipsum libero repudiandae, et perspiciatis eveniet eos voluptate. ">
-    <img src="https://placekitten.com/g/500/300" alt="Trulli">
-
-    <figcaption>asd</figcaption>
-  </figure>
+    <button data-tooltip="Hello World!" class="topLeft">Tooltip here!</button>
+    <button data-tooltip="Hello World!" class="topRight">Tooltip here!</button>
+    <button data-tooltip="Hello World!" class="bottomLeft">Tooltip here!</button>
+    <button data-tooltip="Hello World!" class="bottomRight">Tooltip here!</button>
 </body>
 <script src="ez-tooltip.js"></script>
 </html>

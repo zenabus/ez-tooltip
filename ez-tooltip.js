@@ -58,6 +58,7 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     bottomLeft: function (e) {
       tooltip.position(e.clientX - tooltip.width() + 10, e.clientY + 30)
+      arrow.placement('top');
       arrow.left(tooltip.width() - 20);
     }
   }
