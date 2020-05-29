@@ -4,7 +4,9 @@ A simple and light-weight tooltip with just 2.02kb css and js minified.
 ## Usage
 Just add data-tooltip attribute with the value as tooltip text to the element you want to have a tooltip: 
 
-    <button data-tooltip="Hello World!">Hover here!</button>
+````html
+<button data-tooltip="Hello World!">Hover here!</button>
+````
 
 ![EZ-Tooltip](https://i.ibb.co/fNrvkHS/Untitled.png)
 
