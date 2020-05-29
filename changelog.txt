@@ -7,3 +7,4 @@ Free to use under the MIT license.
 
 v1.0.1
 - added event.stopImmediatePropagation() to handle events on nested elements.
+- set top-left as default position.

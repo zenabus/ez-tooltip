@@ -89,10 +89,12 @@ document.addEventListener("DOMContentLoaded", function () {
 
       if (AT_BOTTOM && AT_RIGHT) {
         tooltip.topLeft(e);
-      } else if (AT_BOTTOM) {
+      } else if (AT_TOP && AT_RIGHT){
+        tooltip.bottomLeft(e);
+      }else if (AT_BOTTOM) {
         tooltip.topRight(e);
       } else if (AT_RIGHT) {
-        tooltip.bottomLeft(e);
+        tooltip.topLeft(e);
       } else if(AT_TOP) {
         tooltip.bottomRight(e);
       } else {

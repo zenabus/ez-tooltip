@@ -26,7 +26,6 @@
 .ez-tooltip::before {
   color: #000;
   position: absolute;
-  transition: left .3s ease-out;
 }
 
 .ez-arrow-top::before {
