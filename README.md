@@ -10,6 +10,10 @@ Just add data-tooltip attribute with the value as tooltip text to the element yo
 
 ![EZ-Tooltip](https://i.ibb.co/fNrvkHS/Untitled.png)
 
+## Demo
+
+[Live demo at CodePen.io](https://codepen.io/zenabus/pen/VwvJJNj)
+
 ## Changelog
 ### v1.0.1 - 2020-05-29:
 - added event.stopImmediatePropagation() to handle events on nested elements.
