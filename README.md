@@ -17,7 +17,7 @@ Just add data-tooltip attribute with the value as tooltip text to the element yo
 ## Changelog
 ### v1.0.1 - 2020-05-29:
 - added event.stopImmediatePropagation() to handle events on nested elements.
-- set top-left as default position.
+- set top-right as default position.
 
 ### v1.0.0 - 2020-05-28:
 - initial commit
