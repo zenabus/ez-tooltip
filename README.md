@@ -2,9 +2,9 @@
 
 <p align="center">A simple and light-weight tooltip with just 2.25kb css and js minified.</p>
 <p align="center">
-  <img src="https://svgshare.com/i/Leu.svg" /> 
-  <img src="https://svgshare.com/i/Lf5.svg" />
+  <img src="https://svgshare.com/i/Leu.svg" />
   <img src="https://svgshare.com/i/LeU.svg" />
+  <img src="https://svgshare.com/i/Lf5.svg" />
   <img src="https://svgshare.com/i/Leg.svg" />
 </p>
 
