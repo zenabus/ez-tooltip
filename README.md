@@ -1,6 +1,6 @@
 <h1 align="center">EZ-Tooltip.js</h1>
 
-<p align="center">A simple and light-weight tooltip with just 2.25kb css and js minified.</p>
+<p align="center">A simple and light-weight tooltip with just 2.4kb css and js minified.</p>
 <p align="center">
   <img src="https://svgshare.com/i/Leu.svg" />
   <img src="https://svgshare.com/i/LeU.svg" />
