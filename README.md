@@ -9,7 +9,13 @@
 </p>
 
 ## Usage
-Just add data-tooltip attribute with the value as tooltip text to the element you want to have a tooltip: 
+Import the CSS and JS file to you HTML:
+````html
+<link rel="stylesheet" href="ez-tooltip.css">
+<script src="ez-tooltip.js"></script>
+````
+
+Then add data-tooltip attribute with the value as tooltip text to the element you want to have a tooltip: 
 
 ````html
 <button data-tooltip="Hello World!">Hover here!</button>
