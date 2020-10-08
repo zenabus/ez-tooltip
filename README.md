@@ -31,7 +31,8 @@ Just add data-tooltip attribute with the value as tooltip text to the element yo
 
 ## Thanks
 
-- [GitHub](http://github.com/zenabus)
-- [LinkedIn](http://linkedin.com/in/zenabus)
-- [FreeCodeCamp](http://freecodecamp.org/zenabus)
-- [CodePen](http://codepen.io/zenabus)
+- [GitHub](https://github.com/zenabus)
+- [LinkedIn](https://linkedin.com/in/zenabus)
+- [FreeCodeCamp](https://freecodecamp.org/zenabus)
+- [CodePen](https://codepen.io/zenabus)
+- [Buy Me a Coffee](https://www.buymeacoffee.com/zenabus)
