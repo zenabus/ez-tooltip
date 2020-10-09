@@ -2,10 +2,10 @@
 
 <p align="center">A simple and light-weight tooltip with just 2.4kb css and js minified.</p>
 <p align="center">
-  <img src="https://svgshare.com/i/Leu.svg" />
-  <img src="https://svgshare.com/i/LeU.svg" />
-  <img src="https://svgshare.com/i/Lf5.svg" />
-  <img src="https://svgshare.com/i/Leg.svg" />
+  <img src="https://img.shields.io/badge/css%20minified-547%20bytes-green" />
+  <img src="https://img.shields.io/badge/js%20minified-1.86kb-green" />
+  <img src="https://img.shields.io/badge/css-651%20bytes-blue" />
+  <img src="https://img.shields.io/badge/js-3.1kb-blue" />
 </p>
 
 ## Usage
